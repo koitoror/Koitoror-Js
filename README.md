@@ -59,7 +59,7 @@ $ koitoror-cli remove [_ID]
 ### Author
 
 Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+[Koitoror University](http://www.koitoror-university.tk)
 
 ### Version
 
