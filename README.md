@@ -59,7 +59,7 @@ $ koitoror-cli remove [_ID]
 ### Author
 
 Daniel Kamar
-[Koitoror University](http://www.koitoror-university.tk)
+[Koitoror University](http://www.koitororuniversity.tk)
 
 ### Version
 
