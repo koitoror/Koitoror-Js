@@ -58,7 +58,7 @@ $ koitoror-cli remove [_ID]
 
 ### Author
 
-Brad Traversy
+Daniel Kamar
 [Koitoror University](http://www.koitoror-university.tk)
 
 ### Version
